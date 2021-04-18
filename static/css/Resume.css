@@ -1,0 +1,58 @@
+
+  .body{
+      border-radius: 20px; 
+      border-color: black;  
+      
+      background-color:beige;
+  }
+  img {
+    width: 150px;
+    border-radius: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+  .add {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    border-width: 2px;
+    background-color:aqua;
+  }
+  
+  .skills {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    background-color: aqua;
+  }
+  
+  .proj {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    background-color: aqua;
+  }
+  
+  .personal {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    background-color: aqua;
+  }
+  
+  .lang {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    background-color: aqua;
+  }
+  
+  .hob {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    background-color: aqua;
+  }
+  
+  .title{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: none;
+    background-color: aqua;
+  }
+  
+  
